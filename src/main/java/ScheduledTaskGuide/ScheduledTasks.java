@@ -1,4 +1,4 @@
-package hello;
+package ScheduledTaskGuide;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
