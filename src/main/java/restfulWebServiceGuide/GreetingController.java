@@ -1,4 +1,4 @@
-package hello;
+package restfulWebServiceGuide;
 
 import java.util.concurrent.atomic.AtomicLong;
 
